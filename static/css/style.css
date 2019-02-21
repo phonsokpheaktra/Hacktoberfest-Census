@@ -5,6 +5,9 @@ body {
   width: 100%;
   font-family: "Josefin Sans", sans-serif;
   background-color: #fff;
+  text-align: center;
+  background-color: cadetblue;
+  font-size: 2em;
 }
 
 a {
